@@ -274,7 +274,7 @@ a:hover .nav-contact {
 }
 
 
-@media only screen and (max-width: 420px) {
+@media only screen and (max-width: 419px) {
 
   .imgName {
     display: none;
